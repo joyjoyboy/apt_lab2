@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Jack and Jill
 John goes down the hill
+=======
+Jane and Joe
+John goes up the hill
+>>>>>>> b7bf90a213aaf7d095699529f159ededf7213b86
 Blue Hat, Purple Hat
